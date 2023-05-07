@@ -21,5 +21,5 @@ else
 fi
 
 echo
-echo "Note: gofile.io is entirely free with no ads,"
+echo "Note: gofile.io is entirely free with ads,"
 echo "you can support it at https://gofile.io/donate"
